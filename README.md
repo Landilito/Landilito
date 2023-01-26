@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Landilito
 - 👀 I’m interested in web and game developement
-- 🌱 I’m currently learning Angular, RXJS, and a reading design patter from Gamma's book
+- 🌱 I’m currently looking to expand my  Angular, RXJS, NGRX, knowledge and reading design patter from Gamma's book
 - 💞️ I’m looking to collaborate on anything related to web developement
 - 📫 How to reach me via gmail is: landyotc@gmail.com
 
